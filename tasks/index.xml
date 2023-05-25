@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bgGLUE Tasks | bgGLUE: Bulgarian Language Understanding Evaluation</title>
+    <link>https://bgglue.github.io/tasks/</link>
+      <atom:link href="https://bgglue.github.io/tasks/index.xml" rel="self" type="application/rss+xml" />
+    <description>bgGLUE Tasks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://bgglue.github.io/media/logo_hu0c6fb0c5f19a5cfcc54052e0eef55ee7_178822_300x300_fit_lanczos_3.png</url>
+      <title>bgGLUE Tasks</title>
+      <link>https://bgglue.github.io/tasks/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/bsnlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/bsnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/cinexio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/cinexio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/crediblenews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/crediblenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/ct21-t1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/ct21-t1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/exams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/exams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/fakenews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/fakenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/udep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/udep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/wikiann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/wikiann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgglue.github.io/tasks/task_info/xnli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bgglue.github.io/tasks/task_info/xnli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

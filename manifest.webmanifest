@@ -1,0 +1,18 @@
+{
+  "name": "bgGLUE: Bulgarian Language Understanding Evaluation",
+  "short_name": "bgGLUE: Bulgarian Language Understanding Evaluation",
+  "lang": "en-us",
+  "theme_color": "#198754",
+  "background_color": "#198754",
+  "icons": [{
+    "src": "/media/icon_hu21fe75bbcefb47c581f97c1c9dc08de8_51105_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu21fe75bbcefb47c581f97c1c9dc08de8_51105_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

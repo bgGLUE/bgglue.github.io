@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galia Angelova | bgGLUE: Bulgarian Language Understanding Evaluation</title>
+    <link>https://bgglue.github.io/author/galia-angelova/</link>
+      <atom:link href="https://bgglue.github.io/author/galia-angelova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galia Angelova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://bgglue.github.io/author/galia-angelova/avatar_hu1dc5e86798ed0cf462f4184a512baba2_165995_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Galia Angelova</title>
+      <link>https://bgglue.github.io/author/galia-angelova/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dragomir R. Radev | bgGLUE: Bulgarian Language Understanding Evaluation</title>
+    <link>https://bgglue.github.io/author/dragomir-r.-radev/</link>
+      <atom:link href="https://bgglue.github.io/author/dragomir-r.-radev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dragomir R. Radev</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://bgglue.github.io/author/dragomir-r.-radev/avatar_huc1158f5d36f10124878153656b3cc812_62172_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dragomir R. Radev</title>
+      <link>https://bgglue.github.io/author/dragomir-r.-radev/</link>
+    </image>
+    
+  </channel>
+</rss>

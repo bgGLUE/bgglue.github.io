@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preslav Nakov | bgGLUE: Bulgarian Language Understanding Evaluation</title>
+    <link>https://bgglue.github.io/author/preslav-nakov/</link>
+      <atom:link href="https://bgglue.github.io/author/preslav-nakov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preslav Nakov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://bgglue.github.io/author/preslav-nakov/avatar_huafcd5bba95e2204f990fe2d8a5d7afdb_26666_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Preslav Nakov</title>
+      <link>https://bgglue.github.io/author/preslav-nakov/</link>
+    </image>
+    
+  </channel>
+</rss>
