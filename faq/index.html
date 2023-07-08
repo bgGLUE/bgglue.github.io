@@ -870,11 +870,10 @@
     </h2>
     <div id="basicAccordionCollapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-mdb-parent="#basicAccordion" style="">
       <div class="accordion-body">
-        To evaluate on bgGLUE, collect your system's predictions on the nine tasks. Get data for all tasks (except CredibleNews, see below) from HuggingFace (link). 
-For CredibleNews you need to fill a license form to get the train/dev/test.jsonl files, then you can use the HuggingFace dataset to load the dataset.
-The expected format for each dataset is a jsonl file (a valid json on each row) with two fields: `{"id": 123, "label": "label_name"}`. 
-You may upload at most two submissions a day. A sample submission with the necessary formatting is available [here](link). 
-You can use the [code](link) for the baselines as a starting point. See below if you are running into issues submitting.
+        To evaluate on bgGLUE, collect your system's predictions on the nine tasks.
+The expected format for the predictions from each dataset is a jsonl file (a valid json on each row) with two fields: `{"id": 123, "label": "label_name"}`. 
+You may upload at most two submissions a day. A sample submission with the necessary formatting is available <a href="https://github.com/bgGLUE/bgglue/tree/main/sample_submission" target="_blank" rel="noopener"> in our GitHub repository</a>. 
+You can use the <a href="https://github.com/bgGLUE/bgglue#3-running-experiments" target="_blank" rel="noopener">training code</a> for the baselines as a starting point. See below if you are running into issues submitting.
       </div>
     </div>
   </div>
@@ -915,7 +914,11 @@ Systems associated with such work will be removed from the leaderboard.
     </h2>
     <div id="basicAccordionCollapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-mdb-parent="#basicAccordion" style="">
       <div class="accordion-body">
-        You can download per-task training, development, and unlabeled test data from the 'Tasks' section. … HuggingFace datasets … 
+        You can obtain the data for all tasks (except CredibleNews, see below) by following <a href="https://github.com/bgGLUE/bgglue#2-getting-the-data" target="_blank" rel="noopener"> these instructions </a> 
+or using the <a href="https://huggingface.co/datasets/bgglue/bgglue" target="_blank" rel="noopener"> HuggingFace dataset</a>. 
+For CredibleNews you need to agree with the <a href="https://forms.gle/Z7PYHMAvFvFusWT37" target="_blank" rel="noopener">Terms and Conditions listed in this form </a>. 
+After you submit the form, you will receive a download link to dataset. You can use the same HuggingFace class to load the data. <br>
+      <br> You can find links to the per-task training, development, and unlabeled test data from the <a href="/tasks" rel="noopener"> "Tasks" page</a>.
       </div>
     </div>
   </div>
@@ -929,7 +932,7 @@ Systems associated with such work will be removed from the leaderboard.
       <div class="accordion-body">
         The primary bgGLUE tasks are built on and derived from existing datasets. 
         We refer users to the original licenses accompanying each dataset. 
-        For each dataset the license is listed on its "Task Information" page.
+        For each dataset the license is listed on its <a href="/tasks" rel="noopener"> "Tasks" page</a>.
       </div>
     </div>
   </div>
@@ -941,7 +944,7 @@ Systems associated with such work will be removed from the leaderboard.
     </h2>
     <div id="basicAccordionCollapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-mdb-parent="#basicAccordion" style="">
       <div class="accordion-body">
-        Our paper contains details and citations for all data used and the processing applied to them. You can also find details about each dataset in the “Tasks” page. 
+        Our paper contains details and citations for all data used and the processing applied to them. You can also find details about each dataset in the <a href="/tasks" rel="noopener"> "Tasks" page</a>. 
       </div>
     </div>
   </div>
